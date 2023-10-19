@@ -96,7 +96,7 @@ height:442px;
   height:442px;
 }
 
-#root {
+:root {
  --red:#D01C28;
  --gray:#2e2e2e;
 }
